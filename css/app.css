@@ -5,8 +5,8 @@
     scroll-behavior: smooth;
 }
 body {
-    width: 100%;
-    background-color: #fff;
-    padding: 50px 30px;
-    color: #444;
+    
+    background: #fff;
+    padding: 50px;
+    
 }
